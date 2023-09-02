@@ -44,3 +44,32 @@ mobile devices.
 ### Reference:
 
 For inspiration and understanding the flow, visit Trello
+
+
+
+### Deadline
+## Internship
+
+Assignment received
+PDF
+Assignment - Full Stack Developer.pdf
+47.5 KB
+
+Thank you for your interest in our internship opening. As a next step, we are expecting you to complete a short assignment.
+
+Thanks,
+Hannan
+Submission deadline: 07 September, 2023
+
+## JOB
+
+Assignment received
+PDF
+Assignment - Full Stack Developer.pdf
+47.5 KB
+
+Thank you for your interest in our job opening. As a next step, we are expecting you to complete a short assignment.
+
+Thanks,
+Hannan
+Submission deadline: 10 September, 2023
